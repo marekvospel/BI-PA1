@@ -56,10 +56,6 @@ Vector2 sub_points(Point pointa, Point pointb) {
 }
 
 bool double_aprox_eq(double a, double b) {
-  if (fabs(a - b) < DBL_EPSILON) {
-    return true;
-  }
-
   return fabs(a - b) <= 1000 * (fabs(a) + fabs(b)) * DBL_EPSILON;
 }
 
@@ -152,12 +148,12 @@ int main() {
 
   // vector A->B
   Vector2 vab = sub_points(b, a);
-
   // vector A->C
   Vector2 vac = sub_points(c, a);
+  Vector2 vbc = sub_points(c, b);
 
   // Aproximate whether point is on our direction vector
-  if (same_vector(vab, vac)) {
+  if (same_vector(vab, vac) || same_vector(vac, vbc) || same_vector(vab, vbc)) {
     printf("Rovnobezniky nelze sestrojit.\n");
     return -1;
   }
