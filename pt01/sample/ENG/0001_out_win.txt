@@ -1,0 +1,6 @@
+Point A:
+Point B:
+Point C:
+A': [8,4], rhombus
+B': [-2,4], parallelogram
+C': [2,-4], parallelogram

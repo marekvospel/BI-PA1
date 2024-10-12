@@ -1,0 +1,6 @@
+Point A:
+Point B:
+Point C:
+A': [12.5,15], rectangle
+B': [8.5,15], parallelogram
+C': [12.5,6], parallelogram

@@ -1,0 +1,6 @@
+Point A:
+Point B:
+Point C:
+A': [10,2], parallelogram
+B': [-4,2], parallelogram
+C': [4,-2], parallelogram

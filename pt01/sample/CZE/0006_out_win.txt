@@ -1,0 +1,6 @@
+Bod A:
+Bod B:
+Bod C:
+A': [694.402,1642.647], ctverec
+B': [1495.952,934.023], rovnobeznik
+C': [-14.222,841.097], rovnobeznik

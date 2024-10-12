@@ -1,0 +1,6 @@
+Bod A:
+Bod B:
+Bod C:
+A': [10,2], rovnobeznik
+B': [-4,2], rovnobeznik
+C': [4,-2], rovnobeznik

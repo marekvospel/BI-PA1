@@ -1,0 +1,6 @@
+Point A:
+Point B:
+Point C:
+A': [694.402,1642.647], square
+B': [1495.952,934.023], parallelogram
+C': [-14.222,841.097], parallelogram

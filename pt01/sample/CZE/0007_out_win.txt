@@ -1,0 +1,4 @@
+Bod A:
+Bod B:
+Bod C:
+Rovnobezniky nelze sestrojit.

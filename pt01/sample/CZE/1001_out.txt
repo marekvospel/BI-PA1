@@ -1,0 +1,6 @@
+Bod A:
+Bod B:
+Bod C:
+A': [431.75,-124.475], rovnobeznik
+B': [-475.17,238.761], kosoctverec
+C': [431.75,-124.475], rovnobeznik

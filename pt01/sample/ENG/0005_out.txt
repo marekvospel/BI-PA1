@@ -1,0 +1,6 @@
+Point A:
+Point B:
+Point C:
+A': [2504.322,2258.142], rhombus
+B': [-2036.162,2258.142], parallelogram
+C': [2036.162,-2258.142], parallelogram
