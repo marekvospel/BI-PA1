@@ -1,0 +1,3 @@
+Enter time t1:
+Enter time t2:
+Duration:  0:00:00,061

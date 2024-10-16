@@ -1,0 +1,3 @@
+Zadejte cas t1:
+Zadejte cas t2:
+Doba:  0:22:33,893

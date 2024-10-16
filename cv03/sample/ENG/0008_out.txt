@@ -1,0 +1,2 @@
+Enter time t1:
+Invalid input.

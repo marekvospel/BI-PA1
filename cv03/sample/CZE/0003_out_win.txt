@@ -1,0 +1,3 @@
+Zadejte cas t1:
+Zadejte cas t2:
+Doba:  6:06:06,006
