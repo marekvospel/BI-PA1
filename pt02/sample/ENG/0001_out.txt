@@ -1,0 +1,8 @@
+Problems:
+* 5 12 13
+* 6 8 10
+* 9 12 15
+Total: 3
+Total: 18
+Total: 127
+Total: 0

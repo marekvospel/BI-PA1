@@ -1,0 +1,8 @@
+Problemy:
+* 5 12 13
+* 6 8 10
+* 9 12 15
+Celkem: 3
+Celkem: 18
+Celkem: 127
+Celkem: 0

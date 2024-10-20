@@ -11,6 +11,10 @@ print_reset="\033[0m"
 total_tests=0
 correct_tests=0
 
+if [ -f ./main.c ]; then
+  g++ -Wall -Wextra -pedantic -O2 -g main.c
+fi
+
 mkdir -p tester/CZE
 for file in ./sample/CZE/*_in.txt; do
   total_tests=$(($total_tests + 1))
