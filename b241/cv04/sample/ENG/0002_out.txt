@@ -1,0 +1,3 @@
+Enter chessboard size:
+Enter field width:
+Invalid input.

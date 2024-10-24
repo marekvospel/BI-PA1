@@ -1,0 +1,19 @@
+Zadejte pocet poli:
+Zadejte velikost pole:
++---------------+
+|   XXX   XXX   |
+|   XXX   XXX   |
+|   XXX   XXX   |
+|XXX   XXX   XXX|
+|XXX   XXX   XXX|
+|XXX   XXX   XXX|
+|   XXX   XXX   |
+|   XXX   XXX   |
+|   XXX   XXX   |
+|XXX   XXX   XXX|
+|XXX   XXX   XXX|
+|XXX   XXX   XXX|
+|   XXX   XXX   |
+|   XXX   XXX   |
+|   XXX   XXX   |
++---------------+

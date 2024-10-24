@@ -1,0 +1,19 @@
+Enter chessboard size:
+Enter field width:
++---------------+
+|   XXX   XXX   |
+|   XXX   XXX   |
+|   XXX   XXX   |
+|XXX   XXX   XXX|
+|XXX   XXX   XXX|
+|XXX   XXX   XXX|
+|   XXX   XXX   |
+|   XXX   XXX   |
+|   XXX   XXX   |
+|XXX   XXX   XXX|
+|XXX   XXX   XXX|
+|XXX   XXX   XXX|
+|   XXX   XXX   |
+|   XXX   XXX   |
+|   XXX   XXX   |
++---------------+

@@ -1,0 +1,36 @@
+Zadejte pocet poli:
+Zadejte velikost pole:
++--------------------------------+
+|    XXXX    XXXX    XXXX    XXXX|
+|    XXXX    XXXX    XXXX    XXXX|
+|    XXXX    XXXX    XXXX    XXXX|
+|    XXXX    XXXX    XXXX    XXXX|
+|XXXX    XXXX    XXXX    XXXX    |
+|XXXX    XXXX    XXXX    XXXX    |
+|XXXX    XXXX    XXXX    XXXX    |
+|XXXX    XXXX    XXXX    XXXX    |
+|    XXXX    XXXX    XXXX    XXXX|
+|    XXXX    XXXX    XXXX    XXXX|
+|    XXXX    XXXX    XXXX    XXXX|
+|    XXXX    XXXX    XXXX    XXXX|
+|XXXX    XXXX    XXXX    XXXX    |
+|XXXX    XXXX    XXXX    XXXX    |
+|XXXX    XXXX    XXXX    XXXX    |
+|XXXX    XXXX    XXXX    XXXX    |
+|    XXXX    XXXX    XXXX    XXXX|
+|    XXXX    XXXX    XXXX    XXXX|
+|    XXXX    XXXX    XXXX    XXXX|
+|    XXXX    XXXX    XXXX    XXXX|
+|XXXX    XXXX    XXXX    XXXX    |
+|XXXX    XXXX    XXXX    XXXX    |
+|XXXX    XXXX    XXXX    XXXX    |
+|XXXX    XXXX    XXXX    XXXX    |
+|    XXXX    XXXX    XXXX    XXXX|
+|    XXXX    XXXX    XXXX    XXXX|
+|    XXXX    XXXX    XXXX    XXXX|
+|    XXXX    XXXX    XXXX    XXXX|
+|XXXX    XXXX    XXXX    XXXX    |
+|XXXX    XXXX    XXXX    XXXX    |
+|XXXX    XXXX    XXXX    XXXX    |
+|XXXX    XXXX    XXXX    XXXX    |
++--------------------------------+

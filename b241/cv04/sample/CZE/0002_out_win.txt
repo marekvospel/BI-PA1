@@ -1,0 +1,3 @@
+Zadejte pocet poli:
+Zadejte velikost pole:
+Nespravny vstup.

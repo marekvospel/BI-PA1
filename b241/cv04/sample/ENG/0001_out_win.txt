@@ -1,0 +1,36 @@
+Enter chessboard size:
+Enter field width:
++--------------------------------+
+|    XXXX    XXXX    XXXX    XXXX|
+|    XXXX    XXXX    XXXX    XXXX|
+|    XXXX    XXXX    XXXX    XXXX|
+|    XXXX    XXXX    XXXX    XXXX|
+|XXXX    XXXX    XXXX    XXXX    |
+|XXXX    XXXX    XXXX    XXXX    |
+|XXXX    XXXX    XXXX    XXXX    |
+|XXXX    XXXX    XXXX    XXXX    |
+|    XXXX    XXXX    XXXX    XXXX|
+|    XXXX    XXXX    XXXX    XXXX|
+|    XXXX    XXXX    XXXX    XXXX|
+|    XXXX    XXXX    XXXX    XXXX|
+|XXXX    XXXX    XXXX    XXXX    |
+|XXXX    XXXX    XXXX    XXXX    |
+|XXXX    XXXX    XXXX    XXXX    |
+|XXXX    XXXX    XXXX    XXXX    |
+|    XXXX    XXXX    XXXX    XXXX|
+|    XXXX    XXXX    XXXX    XXXX|
+|    XXXX    XXXX    XXXX    XXXX|
+|    XXXX    XXXX    XXXX    XXXX|
+|XXXX    XXXX    XXXX    XXXX    |
+|XXXX    XXXX    XXXX    XXXX    |
+|XXXX    XXXX    XXXX    XXXX    |
+|XXXX    XXXX    XXXX    XXXX    |
+|    XXXX    XXXX    XXXX    XXXX|
+|    XXXX    XXXX    XXXX    XXXX|
+|    XXXX    XXXX    XXXX    XXXX|
+|    XXXX    XXXX    XXXX    XXXX|
+|XXXX    XXXX    XXXX    XXXX    |
+|XXXX    XXXX    XXXX    XXXX    |
+|XXXX    XXXX    XXXX    XXXX    |
+|XXXX    XXXX    XXXX    XXXX    |
++--------------------------------+
