@@ -12,7 +12,7 @@ total_tests=0
 correct_tests=0
 
 if [ -f ./main.c ]; then
-  g++ -Wall -Wextra -pedantic -O2 -g main.c
+  clang++ -Wall -Wextra -pedantic -O2 -g main.c
 fi
 
 mkdir -p tester/CZE
