@@ -1,0 +1,11 @@
+Cargo delivery:
+Cargo:
+Finish: 3, cost: 14
+Finish: 3, cost: 14
+Finish: 5, cost: 48
+Finish: 12, cost: 89
+Finish: 15, cost: 101
+Finish: 30, cost: 257
+Cargo too big, not enough capacity.
+Finish: 4, cost: 31
+Finish: 30, cost: 12

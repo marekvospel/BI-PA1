@@ -1,0 +1,6 @@
+Moznosti dopravy:
+Naklad:
+Konec: 17, cena: 76
+Konec: 33, cena: 182
+Konec: 35, cena: 91
+Konec: 17, cena: 108

@@ -14,6 +14,9 @@ correct_tests=0
 if [ -f ./main.c ]; then
   clang++ -Wall -Wextra -pedantic -O2 -g main.c
 fi
+if [ -f ./main.cpp ]; then
+  clang++ -Wall -Wextra -pedantic -O2 -g main.cpp
+fi
 
 mkdir -p tester/CZE
 for file in ./sample/CZE/*_in.txt; do

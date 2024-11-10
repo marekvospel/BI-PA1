@@ -1,0 +1,6 @@
+Cargo delivery:
+Cargo:
+Finish: 17, cost: 76
+Finish: 33, cost: 182
+Finish: 35, cost: 91
+Finish: 17, cost: 108

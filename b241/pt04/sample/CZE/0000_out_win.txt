@@ -1,0 +1,11 @@
+Moznosti dopravy:
+Naklad:
+Konec: 3, cena: 14
+Konec: 3, cena: 14
+Konec: 5, cena: 48
+Konec: 12, cena: 89
+Konec: 15, cena: 101
+Konec: 30, cena: 257
+Prilis velky naklad, nelze odvezt.
+Konec: 4, cena: 31
+Konec: 30, cena: 12
