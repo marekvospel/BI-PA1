@@ -1,0 +1,9 @@
+Ceny, hledani:
+Nejvyssi zisk: 20 (0 - 2)
+Nejvyssi ztrata: 25 (2 - 6)
+Nejvyssi zisk: 20 (3 - 5)
+Nejvyssi ztrata: 25 (2 - 6)
+Nejvyssi zisk: 20 (6 - 7)
+Nejvyssi ztrata: 25 (5 - 6)
+Nejvyssi zisk: 45 (6 - 8)
+Nejvyssi ztrata: 25 (2 - 6)

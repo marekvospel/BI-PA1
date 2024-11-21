@@ -1,0 +1,4 @@
+Price, queries:
+Max profit: 20 (0 - 2)
+Max loss: N/A
+Invalid input.

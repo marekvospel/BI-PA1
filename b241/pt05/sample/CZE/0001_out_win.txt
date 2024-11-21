@@ -1,0 +1,11 @@
+Ceny, hledani:
+Nejvyssi zisk: 35 (4 - 5)
+Nejvyssi ztrata: 80 (3 - 8)
+Nejvyssi zisk: 35 (4 - 5)
+Nejvyssi ztrata: 70 (3 - 6)
+Nejvyssi zisk: 35 (4 - 5)
+Nejvyssi ztrata: 50 (3 - 4)
+Nejvyssi zisk: 35 (4 - 5)
+Nejvyssi ztrata: 80 (3 - 8)
+Nejvyssi zisk: N/A
+Nejvyssi ztrata: N/A

@@ -15,7 +15,7 @@ if [ -f ./main.c ]; then
   clang++ -Wall -Wextra -pedantic -O2 -g main.c
 fi
 if [ -f ./main.cpp ]; then
-  clang++ -Wall -Wextra -pedantic -O2 -g main.cpp
+  clang++ -Wall -Wextra -pedantic -g main.cpp -fsanitize=address
 fi
 
 mkdir -p tester/CZE

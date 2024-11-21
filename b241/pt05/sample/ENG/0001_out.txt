@@ -1,0 +1,11 @@
+Price, queries:
+Max profit: 35 (4 - 5)
+Max loss: 80 (3 - 8)
+Max profit: 35 (4 - 5)
+Max loss: 70 (3 - 6)
+Max profit: 35 (4 - 5)
+Max loss: 50 (3 - 4)
+Max profit: 35 (4 - 5)
+Max loss: 80 (3 - 8)
+Max profit: N/A
+Max loss: N/A

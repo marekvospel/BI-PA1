@@ -1,0 +1,9 @@
+Price, queries:
+Max profit: 20 (0 - 2)
+Max loss: N/A
+Max profit: 20 (0 - 2)
+Max loss: 30 (2 - 3)
+Max profit: 20 (0 - 2)
+Max loss: 30 (2 - 3)
+Max profit: 40 (3 - 4)
+Max loss: 30 (2 - 3)

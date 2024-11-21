@@ -1,0 +1,4 @@
+Ceny, hledani:
+Nejvyssi zisk: 20 (0 - 2)
+Nejvyssi ztrata: N/A
+Nespravny vstup.
