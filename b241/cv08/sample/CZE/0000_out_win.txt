@@ -1,0 +1,6 @@
+Zadejte hraci plochu:
+Vyplnena hraci plocha:
+.1112*2...
+.1*13*3111
+.2222*21*1
+.1*1111111

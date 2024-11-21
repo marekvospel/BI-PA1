@@ -1,0 +1,8 @@
+Zadejte hraci plochu:
+Vyplnena hraci plocha:
+.1234*2...
+.2****3111
+.3*76*32*2
+.3***54*3*
+.3*8***321
+.2***5*2..
