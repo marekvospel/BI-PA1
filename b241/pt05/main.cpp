@@ -136,6 +136,7 @@ void merge_segtree_nodes(segment_tree_node_t *node, segment_tree_node_t *left,
   long long old_diff = *node->p_profit_end - *node->p_profit_start;
   long long new_diff = *right->p_profit_end - *right->p_profit_start;
 
+  // Right node has bigger profit
   if (new_diff > old_diff ||
       (old_diff == new_diff && right->p_profit_start < node->p_profit_start)) {
     node->p_profit_start = right->p_profit_start;
@@ -145,6 +146,7 @@ void merge_segtree_nodes(segment_tree_node_t *node, segment_tree_node_t *left,
   old_diff = *node->p_profit_end - *node->p_profit_start;
   new_diff = *right->p_highest - *left->p_lowest;
 
+  // The biggest profit is starting in left node and ends in right
   if (new_diff > old_diff ||
       (old_diff == new_diff && left->p_lowest < node->p_profit_start)) {
     node->p_profit_start = left->p_lowest;
@@ -157,6 +159,7 @@ void merge_segtree_nodes(segment_tree_node_t *node, segment_tree_node_t *left,
   old_diff = *node->p_loss_start - *node->p_loss_end;
   new_diff = *right->p_loss_start - *right->p_loss_end;
 
+  // Right node has bigger loss
   if (new_diff > old_diff ||
       (old_diff == new_diff && right->p_loss_start < node->p_loss_start)) {
     node->p_loss_start = right->p_loss_start;
@@ -166,6 +169,7 @@ void merge_segtree_nodes(segment_tree_node_t *node, segment_tree_node_t *left,
   old_diff = *node->p_loss_start - *node->p_loss_end;
   new_diff = *left->p_highest - *right->p_lowest;
 
+  // The biggest loss is starting in left node and ends in right one
   if (new_diff > old_diff ||
       (old_diff == new_diff && left->p_highest < node->p_loss_start)) {
     node->p_loss_start = left->p_highest;
@@ -233,20 +237,6 @@ void update_segtree_value(segment_tree_t *tree, size_t node_index,
   merge_segtree_nodes(node, left, right);
 }
 
-void print_segtree(segment_tree_t *tree) {
-  printf("Tree:\n");
-  for (size_t i = 0; i < tree->m_capacity; i++) {
-    if (tree->p_value[i].m_present) {
-      segment_tree_node_t *node = &tree->p_value[i];
-      printf("{ [%ld], %lld, %lld, (%lld - %lld) }, ", i, *node->p_lowest,
-             *node->p_highest, *node->p_loss_start, *node->p_loss_end);
-    } else {
-      printf("{}, ");
-    }
-  }
-  puts("\n");
-}
-
 int rebuild_segtree(segment_tree_t *tree) {
   if (tree->m_capacity + 1 <= tree->p_vec->m_length * 2) {
     size_t new_cap = ((tree->m_capacity + 1) << 1) - 1;
@@ -264,22 +254,20 @@ int rebuild_segtree(segment_tree_t *tree) {
                          tree->p_vec->m_length - 1);
   }
 
-  // print_segtree(tree);
-
   return 0;
 }
-
-int push_segtree(segment_tree_t *tree) { return rebuild_segtree(tree); }
 
 void query_segtree(segment_tree_node_t *result, segment_tree_t *tree,
                    size_t node_index, size_t node_start, size_t node_end,
                    size_t query_start, size_t query_end) {
   segment_tree_node_t *node = &tree->p_value[node_index];
 
+  // Out of bounds
   if (query_end < node_start || query_start > node_end) {
     result->m_present = false;
     return;
   }
+  // whole lookup is within this node, no need to recurse
   if (query_start <= node_start && query_end >= node_end) {
     copy_segtree_node(result, node);
     return;
@@ -290,6 +278,7 @@ void query_segtree(segment_tree_node_t *result, segment_tree_t *tree,
   segment_tree_node_t left;
   segment_tree_node_t right;
 
+  // lookup intercepts both left and right node
   query_segtree(&left, tree, 2 * calc_node_index - 1, node_start, node_center,
                 query_start, query_end);
   query_segtree(&right, tree, 2 * calc_node_index, node_center + 1, node_end,
@@ -352,7 +341,7 @@ int main() {
     }
 
     if (op.m_op == '+') {
-      if (push_vec(&vec, op.m_start) != 0 || push_segtree(&segtree) != 0) {
+      if (push_vec(&vec, op.m_start) != 0 || rebuild_segtree(&segtree) != 0) {
         printf("Allocation error.\n");
         retval = -1;
         goto exit;
