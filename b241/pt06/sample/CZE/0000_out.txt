@@ -1,0 +1,15 @@
+Osmismerka:
+Tajenka:
+testxprogtest
+test: 2x
+test: 2x
+test: 2x
+progte: 1x
+est: 2x
+Tajenka:
+testxprogtest
+test: 2x
+program: 0x
+test: 2x
+Tajenka:
+xprog

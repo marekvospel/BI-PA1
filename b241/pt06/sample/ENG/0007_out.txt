@@ -1,0 +1,2 @@
+Wordfind puzzle:
+Invalid input.

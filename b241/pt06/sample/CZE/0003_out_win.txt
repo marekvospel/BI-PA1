@@ -1,0 +1,33 @@
+Osmismerka:
+missouri: 1x
+delaware: 1x
+newhampshire: 1x
+connecticut: 1x
+ohio: 1x
+wisconsin: 1x
+wyoming: 1x
+mississippi: 1x
+maryland: 1x
+texas: 1x
+kansas: 2x
+northdakota: 1x
+nevada: 1x
+florida: 1x
+hawaii: 1x
+nebraska: 1x
+pennsylvania: 1x
+indiana: 1x
+virginia: 1x
+louisiana: 1x
+tennessee: 1x
+alabama: 1x
+arkansas: 1x
+california: 1x
+illinois: 1x
+minnesota: 1x
+southdakota: 1x
+Tajenka:
+zydcjmltdaapklheafbuttueuvrncyvulyqvgmqrpgdwwetabsngujkavtlg
+svnjdauvjxoraqgzrfgunqfdlylkrjgphnqndfgtxsfzzmeoufdrcnokahaa
+rjwvokjaifypuuawtcgqjjmlhuusvyblgvsxeuoydzyasmpkfwbzzqyynuft
+kzlbakn

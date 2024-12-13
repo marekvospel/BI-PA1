@@ -1,0 +1,29 @@
+Osmismerka:
+desmoines: 1x
+dover: 1x
+madison: 1x
+richmond: 1x
+nashville: 1x
+bismarck: 1x
+columbia: 1x
+batonrouge: 1x
+oklahomacity: 1x
+olympia: 1x
+saintpaul: 1x
+raleigh: 1x
+harrisburg: 1x
+indianapolis: 1x
+providence: 1x
+austin: 1x
+sacramento: 1x
+augusta: 1x
+jackson: 1x
+littlerock: 1x
+lansing: 1x
+juneau: 1x
+santafe: 1x
+Tajenka:
+lpstgslqhjtaeonmpcgbhifcfhhbvftdjtyfcdrcwcoxqhjgljfpnjcycbpi
+ajlbulkqvjzrajqiagittcjkgmhfbdcmpplhjfpgbrpnrxkxndhngxcoabrw
+fupfjzxpanomctmwfzyhsoirmyeybeoxpevkkdllumotycsrfcvghdkvkmtb
+hsixojcbpijolitwbkqigstpyscbgf

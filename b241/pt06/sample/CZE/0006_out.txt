@@ -1,0 +1,18 @@
+Osmismerka:
+venus: 1x
+earth: 1x
+ceres: 1x
+asteroids: 1x
+jupiter: 1x
+saturn: 1x
+neptune: 1x
+uranus: 1x
+pluto: 1x
+dwarf: 1x
+mars: 0x
+planet: 1x
+moon: 1x
+Tajenka:
+dhobshyueihunysthaornaueeeanwanainodhghplzoeusudeihcmwnshhyh
+opboqiuercoeaarteoaeucraehftueuleeeiucfaroeioafaiayaoirhtain
+ibeaaeoateoeaahaeiddoedtetezeehophlums

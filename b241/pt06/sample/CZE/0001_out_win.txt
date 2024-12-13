@@ -1,0 +1,22 @@
+Osmismerka:
+atlanta: 1x
+saltlakecity: 1x
+indianapolis: 1x
+montpelier: 1x
+juneau: 1x
+bismarck: 1x
+oklahomacity: 1x
+saintpaul: 1x
+denver: 1x
+honolulu: 1x
+richmond: 1x
+harrisburg: 1x
+columbia: 1x
+nashville: 1x
+springfield: 1x
+providence: 1x
+montgomery: 1x
+hartford: 1x
+jeffersoncity: 1x
+Tajenka:
+dxrrmugfffzdwyctnxcwpwsxolxhbvoyxvpllryednuhyxhfy
