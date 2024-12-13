@@ -1,0 +1,10 @@
+10
+w b4
+w d4
+w f4
+b a5
+b c5
+B e5
+b f6
+w e3
+w h4

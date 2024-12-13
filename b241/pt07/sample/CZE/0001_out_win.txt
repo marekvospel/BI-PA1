@@ -1,0 +1,17 @@
+Velikost hraci plochy:
+Pozice kamenu:
+a1 -> c3 +1
+a1 -> c3 -> e5 +2
+a1 -> c3 -> e5 -> g7 +3
+a1 -> c3 -> e5 -> g7 -> e9 +4
+a1 -> c3 -> e5 -> c7 +3
+a1 -> c3 -> e5 -> c7 -> e9 +4
+g1 -> f2
+g3 -> i5 +1
+g3 -> f4
+i3 -> j4
+i3 -> g5 +1
+i3 -> g5 -> e7 +2
+i3 -> g5 -> e7 -> c9 +3
+i3 -> g5 -> e7 -> g9 +3
+Celkem ruznych tahu: 14

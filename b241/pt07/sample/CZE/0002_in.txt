@@ -1,0 +1,18 @@
+10
+W a1
+W g1
+W i1
+W h2
+W j2
+W g3
+W i3
+b b2
+b d4
+b h4
+b d6
+B f6
+b d8
+b f8
+b h8
+b i9
+b b10

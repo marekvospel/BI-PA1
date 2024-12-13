@@ -1,0 +1,3 @@
+Velikost hraci plochy:
+Pozice kamenu:
+Nespravny vstup.
