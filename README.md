@@ -4,12 +4,12 @@ Final grade: `A`
 Time spent: `about 60h`  
 Segfaults: I'm confident it was `<30 segfaults`  
 
-## Excercises
+## Exercises
 ### Warmup challenge
 Just a simple scanf homework, mostly to get everyone used to the testing environment.
 
 ### 1. Parallelograms
-Evaluate whether input points make some kind of parallelogram. Primarily a floating-point precision comparison excercise.
+Evaluate whether input points make some kind of parallelogram. Primarily a floating-point precision comparison exercise.
 
 ### 2. Pythagorean triples
 An exercise meant to get students familiar with for loops. Also a first instance for **bonus** points for **faster algorithm**
@@ -31,7 +31,7 @@ required sorting the inputs, second required a linear solution, instead of quadr
 First challenge requiring a custom vector implementation, as the inputs could have any length. The goal was to fing the biggest
 growing and declining range in the input array. (in case of duplicates, returning first) Since there was a lot of querying, the
 optimal (yet not the easiest) algotithm was by using the segment tree, which also could have been used for the 4th homework.
-Using the segment was of course just a **bonus** excercise.
+Using the segment was of course just a **bonus** exercise.
 
 ### 6. Eight-way
 One of the only two challenges I didn't do **bonuses** for, as I was on a trip to Asia, was this one and no 7. The naive solution
